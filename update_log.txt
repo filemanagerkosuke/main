@@ -1,4 +1,11 @@
 **2025-11-14**
+___{"name":"ファイルマネージャー（ver0.3）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/File_Manager-ver0.3.apk","type":"install"}___
+変更内容
+・SMBにアクセス出来るように変更した
+・機能の検証などもしていないので
+　動かなければ報告してください
+
+**2025-11-14**
 ___{"name":"コードエディター（ver0.2）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/CodeEditor-ver0.2.apk","type":"install"}___
 ___{"name":"ファイルマネージャー（ver0.2）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/File_Manager-ver0.2.apk","type":"install"}___
 
