@@ -1,4 +1,4 @@
 **2025-11-13**
 テスト
 テスト
-___{"name":"あぷり","link":"https://github.com/filemanagerkosuke/main/releases/download/main/32591.apk","type":"install"}
+___{"name":"あぷり","link":"https://github.com/filemanagerkosuke/main/releases/download/main/32591.apk","type":"install"}___
