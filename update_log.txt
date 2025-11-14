@@ -1,7 +1,7 @@
 **2025-11-14**
+___{"name":"コードエディター（ver0.2）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/CodeEditor-ver0.2.apk","type":"install"}___
+___{"name":"ファイルマネージャー（ver0.2）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/File_Manager-ver0.2.apk","type":"install"}___
+
+**2025-11-14**
 ___{"name":"コードエディター（ver0.1）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/CodeEditor-ver0.1.apk","type":"install"}___
 
-**2025-11-13**
-テスト
-テスト
-___{"name":"あぷり","link":"https://github.com/filemanagerkosuke/main/releases/download/main/32591.apk","type":"install"}___
