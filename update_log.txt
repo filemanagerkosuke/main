@@ -1,3 +1,6 @@
+**2025-11-14**
+___{"name":"コードエディター（ver0.1）","link":"https://github.com/filemanagerkosuke/main/releases/download/main/CodeEditor-ver0.1.apk","type":"install"}___
+
 **2025-11-13**
 テスト
 テスト
